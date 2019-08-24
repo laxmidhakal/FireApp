@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FireApp</string>
+    <string-array name="genres">
+        <item>rock</item>
+        <item>sad</item>
+    </string-array>
+</resources>
